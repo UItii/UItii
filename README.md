@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello world, welcome to this simple <a href=""><i>Github</i></a> repository.</h2>
+  <h2>Hello world, welcome to this simple <a href="">Github</a> repository.</h2>
 </div>
 
 ```javascript
