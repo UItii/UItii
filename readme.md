@@ -7,7 +7,7 @@ let Ultii = {
     country: 'Brazil',
     course: 'Técnico em Informática & Análise e Desenvolvimento de Sistemas',
     someKnowledge: ['HTML', 'CSS', 'Bootstrap' and 'JavaScript'],
-    interestedIn: [ 'Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
+    interestedIn: ['Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
 };
 ```
   
