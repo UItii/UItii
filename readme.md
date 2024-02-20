@@ -5,7 +5,7 @@
 let Ultii = {
     age: 19,
     country: 'Brazil',
-    course: 'Técnico em Informática & Análise e Desenvolvimento de Sistemas',
+    course: 'Técnico em Informática & Análista e Desenvolvedor de Sistemas',
     someKnowledge: ['HTML', 'CSS', 'Bootstrap' and 'JavaScript'],
     interestedIn: ['Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
 };
