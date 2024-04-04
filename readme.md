@@ -3,10 +3,10 @@
 
 ```javascript
 let Ultii = {
-    age: 19,
+    age: 20,
     country: 'Brazil',
     course: 'Técnico em Informática & Análise e Desenvolvimento de Sistemas
-    someKnowledge: ['HTML', 'CSS', 'Bootstrap' and 'JavaScript'],
+    someKnowledge: ['HTML', 'CSS', 'Bootstrap', 'react' and 'JavaScript'],
     interestedIn: ['Python', 'PHP', 'C#', 'Java', 'MySQL' or 'Kotlin']
 };
 ```
